@@ -41,6 +41,30 @@ A user-friendly design is crucial because it determines how effectively and effi
 
 3. *Reduces Frustration and Errors*: Well-designed interfaces minimize confusion and the chance of making mistakes.
 
+### Typograpy
+
+*Font-family*: "Quicksand";
+
+*Font-size*: "15px"; 
+
+*Font-weight*: "500" "700"
+
+*Colors*:
+Primary-color: #34967C;
+
+Secondary-color: #161117;
+
+White: #FFFFFF;
+
+#929292;
+
+Identifying design properties of a mock up design is important to:
+1. *Facilitates Development*: Developers can reference exact values (e.g., padding, font size, colors) from the mockup, speeding up front-end implementation and reducing guesswork.
+
+2. *Ensures Consistency*: Recognizing elements like button styles, input fields, and component dimensions ensures a cohesive look and feel across the entire interface.
+
+3. *Supports Responsiveness*: Knowing how design properties behave across different screen sizes helps create interfaces that adapt well to mobile, tablet, and desktop views. 
+
 <hr>
 
 ## Technologies Used 💻
