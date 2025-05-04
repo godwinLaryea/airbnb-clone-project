@@ -3,7 +3,6 @@
 A full-featured Airbnb clone built with React (Web), React Native (Mobile), and Tailwind CSS for fast and responsive UI development. 
 This project aims to replicate core features of Airbnb, including listings, booking, authentication, and host management.
 
-<hr>
 
 ## Project Goals 🎯
 
@@ -13,17 +12,19 @@ This project aims to replicate core features of Airbnb, including listings, book
 <li>Utilize the necessary tools and technologies.</li>
 <li>Fulfill your roles and responsibilities within the project.</li>
 
-<hr>
 
 ## UI/UX Design Planning
 
 ### Features
 
+- Property search and filtering
+  
+- 🏠 View listings (images, price, location, description)
+  
 - 🔐 Authentication (Login, Register)
 
-- 🏠 View listings (images, price, location, description)
-
 - 🗓️ Booking system
+
   
 
 | **Page Name**              | **Description**                                                                                                                                               | **Key Features**                                                                 |
@@ -42,21 +43,18 @@ A user-friendly design is crucial because it determines how effectively and effi
 3. *Reduces Frustration and Errors*: Well-designed interfaces minimize confusion and the chance of making mistakes.
 
 ### Typograpy
+- Primary Font: Circular, Medium (500), 16px
+- Headings: Circular, Bold (700), 24px-32px
+- Secondary Text: Circular, Book (400), 14px
 
-*Font-family*: "Quicksand";
-
-*Font-size*: "15px"; 
-
-*Font-weight*: "500" "700"
 
 *Colors*:
-Primary-color: #34967C;
-
-Secondary-color: #161117;
-
-White: #FFFFFF;
-
-#929292;
+- Primary: #FF5A5F
+- Secondary: #008489
+- Background: #FFFFFF
+- Text: #222222
+- Secondary Text: #717171
+  
 
 Identifying design properties of a mock up design is important to:
 1. *Facilitates Development*: Developers can reference exact values (e.g., padding, font size, colors) from the mockup, speeding up front-end implementation and reducing guesswork.
@@ -65,10 +63,8 @@ Identifying design properties of a mock up design is important to:
 
 3. *Supports Responsiveness*: Knowing how design properties behave across different screen sizes helps create interfaces that adapt well to mobile, tablet, and desktop views. 
 
-<hr>
 
 ## Technologies Used 💻
-
 Introduction to the tech stack:
 
 *Frontend*: React with TypeScript, Next.js for server-side rendering and static site generation, TailwindCSS for styling.
@@ -77,10 +73,9 @@ Introduction to the tech stack:
 
 *Other Tools*: Redux or Context API for state management, REST for API integration, Jest for testing.
 
-<hr>
+
 
 ## Project Roles and Responsibilities 
-
 ### Project Manager (PM) 🗂️
 *Overview*: The Project Manager is the leader of the project. They are responsible for planning, executing, and closing projects.
 
@@ -160,7 +155,29 @@ Introduction to the tech stack:
 - Coach the team on Agile principles and practices.
 - Ensure continuous improvement within the team.
 
-<hr>
+
+## UI Component Patterns
+### Planned Components
+
+### Navbar
+- Logo
+- Search bar
+- User navigation
+- Responsive menu
+
+### Property Card
+- Property image
+- Basic details (price, location, rating)
+- Favorite button
+- Responsive layout
+
+### Footer
+- Site links
+- Company information
+- Social media links
+- Copyright information
+
+
 
 ## 🌐 Live Demo
 🚧 Coming Soon
